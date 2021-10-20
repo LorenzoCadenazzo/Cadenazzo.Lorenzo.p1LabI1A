@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1634740582 source:c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1634740582 c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\color.h
+
+1634740582 source:c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\extras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validations.h"
+
+1634741619 c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\validations.h
+
+1634741745 source:c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"extras.h"
+	"validations.h"
+
+1634740582 c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\menu.h
+
+1634740582 c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\extras.h
+
+1634740582 source:c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\type.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"type.h"
+
+1634740582 c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\type.h
+
+1634741619 source:c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"validations.h"
+
+1634742280 source:c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"validations.h"
+	"menu.h"
+	"extras.h"
+
+1634740582 c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\bici.h
+	"type.h"
+	"color.h"
+
+1634742035 source:c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"type.h"
+	"color.h"
+	"service.h"
+	"work.h"
+	"extras.h"
+	"menu.h"
+
+1634741424 c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\service.h
+
+1634740582 c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\work.h
+	"bici.h"
+	"service.h"
+
+1634742357 source:c:\users\loren\documents\programacion 1\tp1_calculadora\parcial1lab1\work.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"work.h"
+	"validations.h"
+	"menu.h"
+	"extras.h"
+
